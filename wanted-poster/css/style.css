@@ -152,7 +152,8 @@ footer{
     padding-right: 2rem;
     padding-left: 2rem;
     color:#333;
-    border-top:solid;
-    weig
+    border-top:solid ;
+    border-top-width: 2rem;
+    border-color: #333
 }
 
