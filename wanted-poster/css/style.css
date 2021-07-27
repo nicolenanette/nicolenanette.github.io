@@ -64,16 +64,35 @@ h1 {
     font-family:'Alfa Slab One', Garamond, serif;
     text-align:center;
 }
-
-
+h2 {
+    font-size: 3rem;
+    letter-spacing: .25rem;
+    font-weight: normal;
+    text-shadow:.09375rem .09375rem .09375rem #000;
+    font-family:'Alfa Slab One', Garamond, serif;
+    margin: 0;
+    color:darkred;
+    text-align:center;
+}
+h3 {
+    font-size: 2rem;
+    letter-spacing: .25rem;
+    font-weight: normal;
+    text-shadow:.0;
+    font-family:'Alfa Slab One', Garamond, serif;
+    margin: 0;
+    color:black;
+    text-align:center;
+}
+h4 {}
 /* Section & Paragraph */
-
-
+section {}
+p {}
 
 /* Image & Figure */
-
-
-
+img {}
+figure {}
+figcaption {}
 /* Footer */
-
+footer{}
 
