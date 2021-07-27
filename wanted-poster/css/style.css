@@ -84,7 +84,20 @@ h3 {
     color:black;
     text-align:center;
 }
-h4 {}
+the level 4 heading should also have a font size of 24px, 
+letter spacing of 4px and bottom padding of 18px - all expressed in rem units - and a normal font weight
+h4 {
+    font-size: 1.5rem;
+    letter-spacing: .25rem;
+    font-weight: normal;
+    text-shadow:.0;
+    font-family:'Alfa Slab One', Garamond, serif;
+    margin: 0;
+    color: darkred;
+    text-align:center;
+    padding-bottom: 1.125rem;
+}
+h5 {}
 /* Section & Paragraph */
 section {}
 p {}
