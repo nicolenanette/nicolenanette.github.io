@@ -84,8 +84,7 @@ h3 {
     color:black;
     text-align:center;
 }
-the level 4 heading should also have a font size of 24px, 
-letter spacing of 4px and bottom padding of 18px - all expressed in rem units - and a normal font weight
+
 h4 {
     font-size: 1.5rem;
     letter-spacing: .25rem;
@@ -96,16 +95,63 @@ h4 {
     color: darkred;
     text-align:center;
     padding-bottom: 1.125rem;
+    span> 
 }
-h5 {}
+h5 {
+    font-size: 1rem;
+    letter-spacing: .25rem;
+    font-weight: normal;
+    font-family:'Alfa Slab One', Garamond, serif;
+    margin: 0;
+    margin-top: .25rem;
+    color: #FFF;
+    text-align:center;
+    padding-bottom: .5rem;
+    padding-top: .5rem;
+    padding-left: .5rem;
+    padding-right: .5rem;
+    background-color: #333;
+}
 /* Section & Paragraph */
-section {}
-p {}
+section {
+    margin-top: .5rem;
+}
+p   {
+    margin-top: 1rem;
+    margin-bottom:1rem;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 0;
+    padding-top: 0;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    text-align: left;
+    width: 90%;
+    }
 
 /* Image & Figure */
-img {}
-figure {}
-figcaption {}
+img {
+width:100%;
+margin-top: 0;
+margin-bottom: 0;
+margin-left: auto;
+margin-right: auto;
+max-width: 50rem;
+}
+figure {
+    margin-bottom: 2rem;
+}
+figcaption {
+    padding-top: .5rem;
+    text-align: right;
+}
 /* Footer */
-footer{}
+footer{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    padding-right: 2rem;
+    padding-left: 2rem;
+    color:#333;
+    border-style: solid;
+}
 
