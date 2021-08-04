@@ -175,12 +175,14 @@ width: 100%;
 text-align: center;
 border: solid;
 border-width: .063rem;
+border-color: #33658A;
 font-size: 1.125rem;
 margin-bottom: 1.5rem;
 }
 nav a:focus,
 nav a:hover {
-
+color: #fff;
+background-color: #33658A;
 }
 nav a:active {
 
