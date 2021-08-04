@@ -169,7 +169,6 @@ nav {
     display:inline-block;
     line-height: 3;
     width: 100%;
-    text-align: center;
     border: solid;
     border-width: .063rem;
     border-color: #33658A;
@@ -177,7 +176,8 @@ nav {
     margin-bottom: 1.5rem;
 }
 nav a{
-
+    text-align: center;
+    border-bottom: none;
 }
 nav a:focus,
 nav a:hover {
