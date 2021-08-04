@@ -185,10 +185,13 @@ color: #fff;
 background-color: #33658A;
 }
 nav a:active {
-
+color: #fff;
+background-color: #000;
 }
 /* Footer Styles */
-footer {}
+footer {
+    text-align: center;
+}
 
 
 
