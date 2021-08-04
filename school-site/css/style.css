@@ -100,12 +100,15 @@ html {
 
 }
 h1 {
-    font-family: josefinslab, 'Times New Roman', Times, serif
+    font-family: 'josefinslab', Garamond, Times, serif;
     letter-spacing: .125rem;
-    margin
+    font-size: 3.75rem;
+    margin: 1.125rem;
+    text-align: center
 }
 h2 {
-    font-family: josefinslab,sans-serif;
+    font-family: 'josefinslab', Garamond, Times, serif;
+    font-size: 1.5rem;
 }
 h2 + p {
 
