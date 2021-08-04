@@ -170,6 +170,13 @@ nav a{
 outline: none;
 text-decoration: none;
 display:inline-block;
+line-height: 3;
+width: 100%;
+text-align: center;
+border: solid;
+border-width: .063rem;
+font-size: 1.125rem;
+margin-bottom: 1.5rem;
 }
 nav a:focus,
 nav a:hover {
