@@ -167,7 +167,8 @@ nav {
 
 }
 nav a{
-border-bottom: none;
+outline: none;
+text-decoration: none;
 }
 nav a:focus,
 nav a:hover {
