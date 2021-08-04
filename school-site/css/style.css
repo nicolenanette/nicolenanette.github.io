@@ -84,8 +84,6 @@ header, footer {
     src: url(../fonts/josefinslab-regular.ttf) format('truetype');
     font-weight: normal;
     font-style: normal;
-}
-@font-face {
     font-family: 'montserrat', sans-serif;
     src: url(../fonts/montserrat-regular.ttf) format('truetype');
     font-weight: normal;
