@@ -143,10 +143,16 @@ a:hover {
 
 /* List Styling */
 ul {
-
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 0;
+    margin-right: 0
 }
 ol {
-
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 0;
+    margin-right: 0
 }
 .long-list a:hover {
 
