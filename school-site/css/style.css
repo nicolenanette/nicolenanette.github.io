@@ -80,13 +80,13 @@ header, footer {
 /* Imported Typfaces */
 
 @font-face {
-    font-family: josefinslab ;
+    font-family: josefinslab, sans-serif ;
     src: url(../fonts/josefinslab-regular.ttf) format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
-    font-family: montserrat;
+    font-family: montserrat, Arial, sans-serif;
     src: url(../fonts/montserrat-regular.ttf) format('truetype');
     font-weight: normal;
     font-style: normal;
@@ -95,35 +95,67 @@ header, footer {
 
 /* Typography Styles */
 
+html {
+    font-family: montserrat-regular, Arial, Helvetica, sans-serif;
 
+}
+h1 {
+    font-family: josefinslab, 'Times New Roman', Times, serif
+    letter-spacing: .125rem;
+    margin
+}
+h2 {
+    font-family: josefinslab,sans-serif;
+}
+h2 + p {
 
+}
+li {
 
+}
+figcaption {
 
-
+}
 /* Link Styling */
+a{
 
+}
+a:link,
+a:visited{
 
+}
+a:focus,
+a:hover {
 
-
-
+}
 
 /* List Styling */
+ul {
 
+}
+ol {
 
+}
+.long-list a:hover {
 
-
-
+}
 
 /* Navigation Menu */
+nav {
 
+}
+nav a{
 
+}
+nav a:focus,
+nav a:hover {
 
+}
+nav a:active {
 
-
-
+}
 /* Footer Styles */
-
-
+footer {}
 
 
 
