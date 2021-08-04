@@ -80,13 +80,13 @@ header, footer {
 /* Imported Typfaces */
 
 @font-face {
-    font-family: 'josefin slab regular', serif ;
+    font-family: 'josefin slab', serif ;
     src: url(../fonts/josefinslab-regular.ttf) format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
-    font-family: 'montserrat regular', sans-serif;
+    font-family: 'montserrat', sans-serif;
     src: url(../fonts/montserrat-regular.ttf) format('truetype');
     font-weight: normal;
     font-style: normal;
