@@ -169,6 +169,7 @@ nav {
 nav a{
 outline: none;
 text-decoration: none;
+display:inline-block;
 }
 nav a:focus,
 nav a:hover {
