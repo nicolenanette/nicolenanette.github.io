@@ -164,20 +164,20 @@ ol {
 nav {
     padding-left: 0;
     margin-top: .21rem;
-
+    outline: none;
+    text-decoration: none;
+    display:inline-block;
+    line-height: 3;
+    width: 100%;
+    text-align: center;
+    border: solid;
+    border-width: .063rem;
+    border-color: #33658A;
+    font-size: 1.125rem;
+    margin-bottom: 1.5rem;
 }
 nav a{
-outline: none;
-text-decoration: none;
-display:inline-block;
-line-height: 3;
-width: 100%;
-text-align: center;
-border: solid;
-border-width: .063rem;
-border-color: #33658A;
-font-size: 1.125rem;
-margin-bottom: 1.5rem;
+
 }
 nav a:focus,
 nav a:hover {
