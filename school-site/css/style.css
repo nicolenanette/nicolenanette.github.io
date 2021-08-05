@@ -80,13 +80,13 @@ header, footer {
 /* Imported Typfaces */
 
 @font-face {
-    font-family: 'Josefinslab', Georgia, Times, Garamond, serif ;
+    font-family: 'Josefinslab';
     src: url(/fonts/josefinslab-regular.ttf) format("TrueType");
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
-    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+    font-family: 'Montserrat';
     src: url(/fonts/montserrat-regular.ttf) format("TrueType");
     font-weight: normal;
     font-style: normal;
