@@ -154,7 +154,7 @@ ol {
     margin-bottom: 1rem;
     margin-left: 0;
     margin-right: 0;
-    list-style-type: upper-alpha;
+    list-style-type: lower-alpha;
 }
 .long-list a:hover {
 
