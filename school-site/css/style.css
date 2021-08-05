@@ -84,7 +84,9 @@ header, footer {
     src: url(../fonts/josefinslab-regular.ttf) format('truetype');
     font-weight: normal;
     font-style: normal;
-    font-family: 'montserrat', sans-serif;
+}
+@font-face {
+    font-family: 'montserrat', gotham, museo sans, lato, sans-serif;
     src: url(../fonts/montserrat-regular.ttf) format('truetype');
     font-weight: normal;
     font-style: normal;
@@ -98,7 +100,7 @@ html {
 
 }
 h1 {
-    font-family: 'josefin slab', serif;
+    font-family: 'josefin slab',
     letter-spacing: .125rem;
     font-size: 3.75rem;
     margin: 1.125rem;
