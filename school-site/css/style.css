@@ -87,7 +87,7 @@ header, footer {
 }
 @font-face {
     font-family: 'Montserrat';
-    src: url(/fonts/montserrat-regular.ttf) format("TrueType");
+    src: url(/school-site/fonts/montserrat-regular.ttf) format("TrueType");
     font-weight: normal;
     font-style: normal;
 }
