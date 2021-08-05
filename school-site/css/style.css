@@ -81,13 +81,13 @@ header, footer {
 
 @font-face {
     font-family: 'josefinslabregular', josefin sans, Avrile, serif ;
-    src: url(../fonts/josefinslab-regular.ttf) format('truetype');
+    src: url(../fonts/josefinslab-regular.ttf) format('ttf');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'montserratregular', gotham, museo sans, lato, sans-serif;
-    src: url(../fonts/montserrat-regular.ttf) format('truetype');
+    src: url("../fonts/montserrat-regular.ttf") format("ttf");
     font-weight: normal;
     font-style: normal;
 }
