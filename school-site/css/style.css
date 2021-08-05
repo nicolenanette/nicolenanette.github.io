@@ -80,13 +80,13 @@ header, footer {
 /* Imported Typfaces */
 
 @font-face {
-    font-family: 'josefinslab-regular', Georgia, Times, Garamond, serif ;
+    font-family: 'Josefinslab', Georgia, Times, Garamond, serif ;
     src: url("../fonts/josefinslab-regular.ttf") format("TrueType");
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
-    font-family: 'montserrat-regular', Arial, Helvetica, sans-serif;
+    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
     src: url("../fonts/montserrat-regular.ttf") format("TrueType");
     font-weight: normal;
     font-style: normal;
@@ -96,25 +96,25 @@ header, footer {
 /* Typography Styles */
 
 html {
-    font-family: 'montserrat-regular',Arial, Helvetica, sans-serif;
+    font-family: 'Montserrat',Arial, Helvetica, sans-serif;
 
 }
 h1 {
-    font-family: 'josefin slab',Georgia, Times, Garamond,serif;
+    font-family: 'Josefinslab',Georgia, Times, Garamond,serif;
     letter-spacing: .125rem;
     font-size: 3.75rem;
     margin: 1.125rem;
     text-align: center
 }
 h2 {
-    font-family: 'josefinslab-regular', Georgia, Times, Garamond,serif;
+    font-family: 'Josefinslab', Georgia, Times, Garamond,serif;
     font-size: 1.5rem;
 }
 h2 + p {
     text-indent: 1.5rem;
 }
 p {
-    font-family: 'montserrat-regular', sans-serif;
+    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
     font-size: .75rem;
     letter-spacing: .031rem;
     word-spacing: .125rem;
