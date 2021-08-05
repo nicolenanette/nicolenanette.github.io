@@ -164,9 +164,11 @@ ol {
 nav {
     padding-left: 0;
     margin-top: .21rem;
+   
+}
+nav a{
     outline: none;
     text-decoration: none;
-   
     line-height: 3;
     width: 100%;
     border: solid;
@@ -174,8 +176,6 @@ nav {
     border-color: #33658A;
     font-size: 1.125rem;
     margin-bottom: 1.5rem;
-}
-nav a{
     text-align: center;
     border-bottom: none;
     display:inline-block;
