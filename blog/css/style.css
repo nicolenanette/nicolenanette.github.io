@@ -24,7 +24,7 @@
             - text-shadow, text-transform
 
         Box, Layout and Border 
-
+bo
             - border (shorthand and/or specific properties like border-top, border-bottom-radius, border-width, etc.)
 
             - box-shadow
@@ -47,5 +47,21 @@
 
 
 /* ------ START WRITING YOUR CODE BELOW ------ */
+html {
+    font-size: 16px
+}
+body {
+    margin: 1.5rem, auto;
+    width: 90%;
+    min-width: 56.25rem;
+}
+@font-face {
+    font-family;
+    src: url();
+}
 
+padding-bottom {
 
+ }
+ margin{}
+letter-spacing {}
