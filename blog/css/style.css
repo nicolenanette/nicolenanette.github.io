@@ -95,8 +95,12 @@ h1{
     background-color: darkred;
     transform: rotate(-4deg);
     color: white;
-    font-family: 'rozhaone', Georgia, 'Times New Roman', Times, serif;
-    font-size: 
+    font-family: 'rozhaone', Garamond, serif;
+    font-size: 3.75rem;
+    font-weight: bolder;
+}
+article{
+    gri
 }
 article-image {
     float: left;
