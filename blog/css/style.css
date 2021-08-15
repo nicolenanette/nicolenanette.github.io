@@ -49,6 +49,7 @@ bo
 /* ------ START WRITING YOUR CODE BELOW ------ */
 *{
     box-sizing: border-box;
+    padding-bottom: 1.5rem;
 }
 html {
     font-size: 16px
@@ -59,12 +60,30 @@ body {
     min-width: 56.25rem;
 }
 @font-face {
-    font-family;
-    src: url();
+    font-family: 'Roboto';
+    src: url(/blog/fonts/sans-serif/roboto-regular.ttf) format(TrueType);
+    font-weight:normal;
+    font-style: normal;
 }
-
-padding-bottom {
-
- }
- margin{}
-letter-spacing {}
+@font-face {
+    font-family: 'Montsterrat';
+    src: url(/blog/fonts/sans-serif/montserrat-regular.ttf) format(TrueType);
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family:'Josefinslab';
+    src: url(/blog/fonts/serif/josefinslab-regular.ttf) format(TrueType);
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'rozhaone';
+    src: url(/blog/fonts/serif/rozhaone-regular.ttf) format(TrueType);
+    font-weight: normal;
+    font-style: normal;
+}
+h1
+article-image {
+    float: left;
+}
