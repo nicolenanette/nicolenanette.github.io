@@ -96,6 +96,16 @@ h1 {
         margin: 1.125rem;
         text-align: center
 }
+h2,h3{
+    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+header{
+    border-bottom: .75rem solid #333;
+    margin-bottom:4rem;
+    padding-bottom:2rem;
+}
 .highlight { 
     background-color: darkred;
     transform: rotate(-4deg);
