@@ -124,7 +124,7 @@ nav {
     list-style-type: none;
     font-size: 1.25rem;
     font-family: 'roboto', Arial, Helvetica, sans-serif;
-   
+   word-spacing: .175rem;
 }
 nav a{ 
     outline: none;
