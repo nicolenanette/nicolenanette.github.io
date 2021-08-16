@@ -115,21 +115,20 @@ header{
     font-weight: bolder;
 }
 nav {
-    border-bottom: black;
-    border-top: black;
+    border-bottom: black solid;
+    border-top: black solid;
     border-width: 100%;
     padding-bottom: 2rem;
     padding-top: 2rem;
     text-align: left;
     list-style-type: none;
+    font-size: 1.25rem;
+    font-family: 'roboto', Arial, Helvetica, sans-serif;
 }
 nav a{ 
     outline: none;
     color: #33658A ;
     text-decoration: none;
-
-
-
 }
 article{
     display: inline-block;
