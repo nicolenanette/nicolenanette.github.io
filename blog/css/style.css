@@ -89,15 +89,14 @@ body {
     width: 100%;
     height: 100%
 }
-h1{
-    h1 {
+h1 {
         font-family: 'Roboto', Arial, Helvetica, sans-serif;
         letter-spacing: .125rem;
         font-size: 3.75rem;
         margin: 1.125rem;
         text-align: center
 }
-h1 span { 
+.highlight { 
     background-color: darkred;
     transform: rotate(-4deg);
     color: white;
