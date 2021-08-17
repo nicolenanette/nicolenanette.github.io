@@ -116,8 +116,18 @@ header{
     color:floralwhite;
     font-family: 'rozhaone', Garamond, serif;
     font-size: 3.75rem;
+    letter-spacing: .2rem;
     font-weight: bolder;
-    box-shadow: darkgrey, .75rem;
+    box-shadow: darkgrey, .313rem .313rem, .313 rem;
+    border-radius: .7rem;
+    border-top-right-radius: .125rem;
+    border-bottom-left-radius: .125rem;
+    border-top-left-radius: 1.25rem;
+    border-bottom-right-radius: 1.25rem;
+    margin-bottom: .5rem;
+    margin-top: .5rem;
+
+    
 }
 nav {
     border-bottom: black solid;
