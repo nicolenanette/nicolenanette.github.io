@@ -134,6 +134,7 @@ nav {
 }
 .line-through {
     text-decoration: line-through,black;
+    transform: rotate(6deg);
 }
 h2{
     padding-top: 1.5rem;
