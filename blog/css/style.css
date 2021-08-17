@@ -214,3 +214,9 @@ aside p{
     margin-right: 4rem;
     padding-right: 2rem;
 }
+aside img{
+    width: 70%;
+    height: auto;
+    margin-right: 0;
+    padding-right: 0;
+}
