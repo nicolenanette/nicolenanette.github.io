@@ -136,6 +136,9 @@ h2{
     padding-left: 2.25rem;
     font-size: larger;
 }
+ul{
+    list-style: none;
+}
 li{ 
     font-size: 120%;
     outline: none;
