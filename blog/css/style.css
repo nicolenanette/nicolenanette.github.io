@@ -199,7 +199,18 @@ figure{
 }
 .sub-section p{}
 
+h3{
+    font-size: .75rem;
+}
 aside{
     border-left: black,thin, solid;
     padding-left: .75rem;
+}
+
+aside p{
+    font-size: .75rem;
+    padding-bottom: 1.5rem;
+    border-bottom: solid,thin,black;
+    margin-right: 4rem;
+    padding-right: 0;
 }
