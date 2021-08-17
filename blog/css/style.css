@@ -163,6 +163,7 @@ a:active{
     float: left;
     display: flex;
 }
-article-image {
+.article-image {
     float: left;
+    size: auto;
 }
