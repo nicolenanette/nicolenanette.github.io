@@ -72,6 +72,10 @@ bo
     font-weight: normal;
     font-style: normal;
 }
+@font-face {
+    font-family: Lato;
+    src: url(/blog/fonts/sans-serif/lato-regular.ttf);
+}
 
 html {
     font-size: 1rem;
@@ -118,12 +122,12 @@ nav {
     border-bottom: black solid;
     border-top: black solid;
     border-width: 100%;
-    padding-bottom: .5rem;
-    padding-top: .5rem;
+    padding-bottom: .125rem;
+    padding-top: .125rem;
     text-align: left;
     list-style-type: none;
     font-size: 1.25rem;
-    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+    font-family: 'Lato', Arial, Helvetica, sans-serif;
    word-spacing: 4rem;
 }
 h2{
