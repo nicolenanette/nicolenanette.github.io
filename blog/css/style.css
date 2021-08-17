@@ -141,7 +141,7 @@ ul{}
 li{ 
     font-size: 120%;
     outline: none;
-    color:navy;
+    color:cornflowerblue(136, 136, 241);
     font-weight: bold;
     text-decoration:none;
     display:inline-block
@@ -152,11 +152,12 @@ a:visited {
     color:navy;
 }
 nav a:hover{
-    color: rgb(19, 13, 31);
+    color: rgb(69, 230, 82);
     font-weight: bold;
+    transform: rotate(6deg);
 }
 a:active{
-    transform: rotate(6deg);
+    
     text-decoration: line-through;
 
 }
