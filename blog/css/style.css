@@ -155,9 +155,10 @@ nav a:hover{
     font-weight: bold;
 
 }
-article{
+section {
     min-width: 22.5rem;
     float: left;
+    display: flex;
 }
 article-image {
     float: left;
