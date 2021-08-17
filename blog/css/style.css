@@ -151,7 +151,7 @@ a:visited {
     color:navy;
 }
 nav a:hover{
-    color: mediumpurple;
+    color: rgb(19, 13, 31);
     font-weight: bold;
 }
 a:active{
@@ -165,5 +165,5 @@ a:active{
 }
 .article-image {
     float: left;
-    size: auto;
+    
 }
