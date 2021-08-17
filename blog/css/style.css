@@ -96,7 +96,7 @@ body {
 h1 {
         font-family: 'Roboto', Arial, Helvetica, sans-serif;
         letter-spacing: .125rem;
-        font-size: 3.188rem;
+        font-size: 3.75rem;
         margin: 1.125rem;
         text-align: center;
         transform:rotate(-4deg)
@@ -156,7 +156,8 @@ nav a:hover{
     font-weight: bold;
 }
 a:active{
-    text-transform: unset;
+    transform: rotate(6deg);
+    text-decoration: line-through;
 
 }
 .main-section  {
