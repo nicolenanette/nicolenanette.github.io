@@ -153,6 +153,9 @@ a:visited {
 nav a:hover{
     color: mediumpurple;
     font-weight: bold;
+}
+a:active{
+    text-transform: unset;
 
 }
 section {
