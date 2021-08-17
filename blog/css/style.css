@@ -94,7 +94,8 @@ h1 {
         letter-spacing: .125rem;
         font-size: 3.188rem;
         margin: 1.125rem;
-        text-align: center
+        text-align: center;
+        transform:rotate(-4deg)
 }
 h2,h3{
     font-family: 'Montserrat', Arial, Helvetica, sans-serif;
@@ -102,17 +103,16 @@ h2,h3{
 }
 
 header{
-    border-bottom: .75rem solid #333;
     margin-bottom:4rem;
     padding-bottom:2rem;
 }
 .highlight { 
     background-color: darkred;
-    transform: rotate(-4deg);
     color: white;
     font-family: 'rozhaone', Garamond, serif;
     font-size: 3.75rem;
     font-weight: bolder;
+    box-shadow: darkgrey;
 }
 nav {
     border-bottom: black solid;
@@ -126,6 +126,11 @@ nav {
     font-family: 'roboto', Arial, Helvetica, sans-serif;
    word-spacing: .175rem;
 }
+h2{
+    padding-top: 1.5rem;
+    padding-left: 2.25rem;
+    font-size: larger;
+}
 nav a{ 
     outline: none;
     color: #33658A ;
@@ -138,10 +143,11 @@ a:visited {
 }
 nav a:hover{
     color: mediumpurple;
+    font-weight: bold;
 
 }
 article{
-    display: inline-block;
+    min-width: 22.5rem;
     float: left;
 }
 article-image {
