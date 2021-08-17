@@ -184,6 +184,10 @@ figure img{
     width: auto;
     height: auto;
 }
+figure{ 
+    margin: 0;
+    padding:0
+}
 .sub-section {
     display:grid ;
     grid-template-columns: repeat(3, 1fr);
@@ -194,3 +198,8 @@ figure img{
     padding-left: 0;
 }
 .sub-section p{}
+
+aside{
+    border-left: black,thin, solid;
+    padding-left: .75rem;
+}
