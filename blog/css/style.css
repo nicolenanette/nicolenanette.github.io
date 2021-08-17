@@ -210,7 +210,17 @@ figure{
     padding-left: 0;
 }
 .sub-section figure img{}
-
+button{
+    font-family: 'rohazone', Garamond, serif;
+    font-size: medium;
+    text-align: center;
+    background-color: royalblue;
+    border:none;
+    padding:.67rem;
+    border-radius: .5rem;
+    width:8.125rem;
+    height: 3.125px
+}
 h3{
     font-size: .75rem;
 }
