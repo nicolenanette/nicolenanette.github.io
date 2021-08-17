@@ -169,6 +169,7 @@ a:active{
     min-width: 22.5rem;
     float: left;
     display: flex;
+    margin-left: .75rem;
 
 }
 figure img{
