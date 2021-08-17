@@ -137,6 +137,7 @@ h2{
     font-size: larger;
 }
 nav a{ 
+    font-size: 120%;
     outline: none;
     color:navy;
     font-weight: bold;
