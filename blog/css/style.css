@@ -113,7 +113,7 @@ header{
 }
 .highlight { 
     background-color: darkred;
-    color: white;
+    color:floralwhite;
     font-family: 'rozhaone', Garamond, serif;
     font-size: 3.75rem;
     font-weight: bolder;
@@ -133,8 +133,10 @@ nav {
    margin-left: 2rem;
 }
 .line-through {
-    text-decoration: line-through,black;
     transform: rotate(6deg);
+}
+.line-through a{
+    text-decoration: line-through,black;
 }
 h2{
     padding-top: 1.5rem;
