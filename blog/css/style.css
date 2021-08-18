@@ -228,6 +228,9 @@ aside img{
     margin-right: 0;
     padding-right: 0;
 }
+.expand{
+    line-height: 2;
+}
 .sub-section {
     display:grid;
     grid-template-columns: repeat(3, 1fr);
