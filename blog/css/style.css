@@ -141,11 +141,6 @@ nav {
 .line-through a{
     text-decoration: line-through,black;
 }
-h2{
-    padding-top: 1.5rem;
-    padding-left: 2.25rem;
-    font-size: larger;
-}
 
 li{ 
     font-size: 120%;
@@ -165,6 +160,10 @@ nav a:hover{
     font-weight: bold;
     transform: rotate(6deg);
 }
+h2{
+    padding-top: 1.5rem;
+    padding-left: 2.25rem;
+    font-size: larger;
 a:active{
     
     text-decoration: line-through;
@@ -194,7 +193,7 @@ figure{
     padding:0
 }
 .sub-section {
-    display:grid ;
+    display:grid;
     grid-template-columns: repeat(3, 1fr);
     column-gap: 0;
     padding-top: 4rem;
@@ -237,7 +236,7 @@ aside p{
     padding-right: 2rem;
 }
 aside img{
-    width: 70%;
+    width: 30%;
     height: auto;
     margin-right: 0;
     padding-right: 0;
