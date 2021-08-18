@@ -201,35 +201,7 @@ figure{
     margin: 0;
     padding:0
 }
-.sub-section {
-    display:grid;
-    grid-template-columns: repeat(3, 1fr);
-    column-gap: 0;
-    padding-top: 4rem;
-    padding-bottom: 4rem;
-    padding-right: 1rem;
-    padding-left: 0;
-}
-.sub-section img{
-    width: 95%;
-    height: auto;
-    max-height: 350px;
-    max-width: 305px;
-    object-fit:cover ;
-}
-.button {
-    font-family: 'rohazone', Garamond, serif;
-    font-style: normal;
-    font-size: medium;
-    text-align: center;
-    background-color:navy;
-    color:oldlace;
-    border:none;
-    padding:.67rem;
-    border-radius: .5rem;
-    width:125px;
-    height: 50px
-}
+
 h3{
     font-size: .75rem;
     margin-bottom: 1;
@@ -251,6 +223,35 @@ aside img{
     height: auto;
     margin-right: 0;
     padding-right: 0;
+}
+.sub-section {
+    display:grid;
+    grid-template-columns: repeat(3, 1fr);
+    column-gap: 0;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+    padding-right: 1rem;
+    padding-left: 0;
+}
+.sub-section img{
+    width: 95%;
+    height: auto;
+    max-height: 350px;
+    max-width: 305px;
+    object-fit:cover ;
+}
+.button {
+    font-family: 'rohazone', Garamond, serif;
+    text-transform: capitalize;
+    font-size: larger;
+    text-align: center;
+    background-color:navy;
+    color:oldlace;
+    border:none;
+    padding:.67rem;
+    border-radius: .5rem;
+    width:125px;
+    height: 50px
 }
 footer{
     clear:both;
