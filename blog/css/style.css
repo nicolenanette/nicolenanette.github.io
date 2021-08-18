@@ -241,6 +241,12 @@ figure img{
     max-width: 305px;
     object-fit:cover ;
 }
+figcaption{
+    background-color: tan;
+    padding:.25rem;
+    width: 90%;
+    
+}
 .button {
     font-family: 'rohazone', Garamond, serif;
     text-transform: capitalize;
