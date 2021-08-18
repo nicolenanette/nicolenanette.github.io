@@ -243,7 +243,7 @@ aside img{
     margin:0
 }
 figure img{
-    width: 95%;
+    width: 100%;
     height: auto;
     max-height: 350px;
     max-width: 305px;
@@ -252,7 +252,7 @@ figure img{
 figcaption{
     background-color: rgb(228, 212, 181);
     padding: 0.125rem;
-    width: 90%;
+    width: 100%;
     
 }
 .button {
