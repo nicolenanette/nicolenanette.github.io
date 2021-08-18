@@ -131,8 +131,8 @@ nav {
     border-bottom: black solid;
     border-top: black solid;
     border-width: 100%;
-    padding-bottom: .125rem;
-    padding-top: .125rem;
+    padding-bottom: .075rem;
+    padding-top: .075rem;
     list-style-type: none;
     font-size: 1.25rem;
    
@@ -185,7 +185,7 @@ section p{
     padding-right:1.75rem;
     margin-top: 0;
     line-height: 1;
-    margin-bottom: 3.125rem;
+
 }
 
 .article-image {
@@ -208,7 +208,7 @@ h3{
     margin-bottom: 1;
 }
 aside{
-    border-left: solid, thin;
+    border-left: black solid;
     padding-left: 2rem;
     max-width: 25rem;
 }
