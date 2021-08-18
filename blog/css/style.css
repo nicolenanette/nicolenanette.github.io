@@ -232,20 +232,19 @@ figure{
 }
 h3{
     font-size: .75rem;
+    margin-bottom: 1;
 }
 aside{
     border-left: black,thin, solid;
     padding-left: 2rem;
-    max-width: ;
-    
 }
 
 aside p{
     font-size: .75rem;
     padding-bottom: 1.5rem;
     border-bottom: solid,thin,black;
-    margin-right: 4rem;
-    padding-right: 2rem;
+    margin-right: 5rem;
+    padding-right: 1rem;
 }
 aside img{
     width: 30%;
