@@ -206,10 +206,16 @@ figure{
     column-gap: 0;
     padding-top: 4rem;
     padding-bottom: 4rem;
-    padding-right: 0;
+    padding-right: 1rem;
     padding-left: 0;
 }
-.sub-section figure img{}
+figure img{
+    width: 95%;
+    height: auto;
+    max-height: 350px;
+    max-width: 305px;
+    object-fit:cover ;
+}
 .button {
     font-family: 'rohazone', Garamond, serif;
     font-size: medium;
