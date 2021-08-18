@@ -115,7 +115,7 @@ header{
     font-size: 3.75rem;
     letter-spacing: .2rem;
     font-weight: bolder;
-    box-shadow: darkgrey, .313rem .313rem, .313 rem;
+    box-shadow:  10px 5px 5px rgb(82, 80, 80);
     border-radius: .7rem;
     border-top-right-radius: .125rem;
     border-bottom-left-radius: .125rem;
@@ -165,6 +165,7 @@ a:active{
 }
 .line-through {
     transform: rotate(6deg);
+    text-decoration: line-through,black;
 }
 .line-through a{
     text-decoration: line-through,black;
