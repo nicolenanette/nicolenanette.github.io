@@ -183,6 +183,9 @@ figure img{
     max-height: 21.875rem;
 
 }
+article{
+    min-width: 21rem
+}
 .article-image {
     float: left;
     width: auto;
