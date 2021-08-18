@@ -210,7 +210,6 @@ h3{
 }
 aside{
     border-left: black solid;
-    border-left-width: thin;
     padding-left: 2rem;
     max-width: 25rem;
     margin-left: .75rem
@@ -243,7 +242,7 @@ aside img{
     margin:0
 }
 figure img{
-    width: 100%;
+    width: 95%;
     height: auto;
     max-height: 350px;
     max-width: 305px;
@@ -252,8 +251,7 @@ figure img{
 figcaption{
     background-color: rgb(228, 212, 181);
     padding: 0.125rem;
-    width: 100%;
-    
+    width: 95%;   
 }
 .button {
     font-family: 'rohazone', Garamond, serif;
