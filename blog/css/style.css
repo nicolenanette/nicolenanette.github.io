@@ -169,7 +169,7 @@ a
     text-decoration: line-through,black;
 }
 .current a{
-    text-decoration: line-through,black;
+    text-decoration: line-through;
 }
 /*main*/
 h2{
