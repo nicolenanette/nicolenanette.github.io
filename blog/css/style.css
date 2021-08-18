@@ -267,6 +267,9 @@ figure img{
     text-decoration: none;
     color:oldlace;
 }
+.button a:hover{
+    cursor: pointer;
+}
 footer{
     clear:both;
     padding-bottom: 6rem;
