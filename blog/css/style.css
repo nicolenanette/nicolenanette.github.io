@@ -215,8 +215,7 @@ aside{
 aside p{
     font-size: .75rem;
     padding-bottom: 2rem;
-    border-bottom:thin;
-    border-style: solid;
+    border-bottom:solid, thin;
     margin-right: 5rem;
     padding-right: 1rem;
 }
