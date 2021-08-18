@@ -213,6 +213,7 @@ figure{
 }
 .button {
     font-family: 'rohazone', Garamond, serif;
+    font-style: normal;
     font-size: medium;
     text-align: center;
     background-color: royalblue;
@@ -228,6 +229,7 @@ h3{
 aside{
     border-left: black,thin, solid;
     padding-left: 2rem;
+    max-width: 25rem;
     
 }
 
