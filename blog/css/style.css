@@ -233,6 +233,7 @@ aside img{
     padding-bottom: 4rem;
     padding-right: 1rem;
     padding-left: 0;
+    margin:0
 }
 figure img{
     width: 95%;
@@ -242,7 +243,7 @@ figure img{
     object-fit:cover ;
 }
 .sub-section figcaption{
-    background-color: tan;
+    background-color: oldlace;
     padding:.25rem;
     width: 90%;
     
