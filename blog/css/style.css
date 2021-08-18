@@ -164,11 +164,11 @@ a:active{
     text-decoration: line-through;
 }
 a
-.line-through {
+.current {
     transform: rotate(6deg);
     text-decoration: line-through,black;
 }
-.line-through a{
+.current a{
     text-decoration: line-through,black;
 }
 /*main*/
