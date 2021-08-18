@@ -226,11 +226,10 @@ aside img{
     padding-right: 0;
 }
 .expand{
-    line-height: 2
+    margin-top: 0;
+    font-size: .2rem;
 }
 
-.expand a{
-    font-size: .25;
 }
 .sub-section {
     display:grid;
