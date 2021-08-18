@@ -209,7 +209,7 @@ figure{
     padding-right: 1rem;
     padding-left: 0;
 }
-figure img{
+.sub-section img{
     width: 95%;
     height: auto;
     max-height: 350px;
