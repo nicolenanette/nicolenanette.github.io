@@ -129,7 +129,9 @@ header{
 /*nav*/
 nav {
     border-bottom: black solid;
+    border-bottom-width: thin;
     border-top: black solid;
+    border-top-width: thin;
     border-width: 100%;
     padding-bottom: .075rem;
     padding-top: .075rem;
@@ -210,6 +212,7 @@ h3{
 }
 aside{
     border-left: black solid;
+    border-left-width: thin;
     padding-left: 2rem;
     max-width: 25rem;
     margin-left: .75rem
