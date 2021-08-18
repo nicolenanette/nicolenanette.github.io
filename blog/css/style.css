@@ -163,7 +163,8 @@ nav a:hover{
 h2{
     padding-top: 1.5rem;
     padding-left: 2.25rem;
-    font-size: larger;
+    font-size: larger;}
+    
 a:active{
     
     text-decoration: line-through;
