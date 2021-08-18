@@ -209,7 +209,7 @@ h3{
     margin-bottom: 1;
 }
 aside{
-    border-left: black solid;
+    border-left: black solid,thin;
     padding-left: 2rem;
     max-width: 25rem;
     margin-left: .75rem
@@ -218,7 +218,7 @@ aside{
 aside p{
     font-size: .75rem;
     padding-bottom: 2rem;
-    border-bottom:solid, thin;
+    border-bottom:black solid,thin;
     margin-right: 3rem;
     padding-right: 1rem;
 }
