@@ -209,6 +209,7 @@ h3{
 aside{
     border-left: black,thin, solid;
     padding-left: 2rem;
+    max-width: 10rem;
 }
 
 aside p{
