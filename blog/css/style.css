@@ -207,7 +207,7 @@ h3{
     margin-bottom: 1;
 }
 aside{
-    border-left: black,thin, solid;
+    border-left: solid, thin;
     padding-left: 2rem;
     max-width: 25rem;
 }
