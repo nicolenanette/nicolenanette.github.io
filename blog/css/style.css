@@ -47,7 +47,7 @@ bo
 
 
 /* ------ START WRITING YOUR CODE BELOW ------ */
-
+/*font styles*/
 @font-face {
     font-family: 'Roboto';
     src: url(/blog/fonts/sans-serif/roboto-regular.ttf) format(TrueType);
@@ -98,11 +98,12 @@ h2,h3{
     font-family: 'Montserrat', Arial, Helvetica, sans-serif;
     font-weight: bold;
 }
-
+/*header*/
 header{
     padding-top: 2.5rem;
     margin-bottom:2.25rem;
     padding-bottom:2rem;
+    width: 110%;
 }
 .highlight { 
     background-color: darkred;
@@ -122,6 +123,7 @@ header{
 
     
 }
+/*nav*/
 nav {
     border-bottom: black solid;
     border-top: black solid;
@@ -135,13 +137,11 @@ nav {
    word-spacing: 4rem;
    margin-left: 2rem;
 }
-.line-through {
-    transform: rotate(6deg);
-}
-.line-through a{
-    text-decoration: line-through,black;
-}
 
+nav a:hover{
+    color: rgb(69, 230, 82);
+    font-weight: bold;
+    transform: rotate(6deg);
 li{ 
     font-size: 120%;
     outline: none;
@@ -153,21 +153,24 @@ li{
 a:link, 
 a:visited {
     text-decoration: none;
-    color:navy;
+    color:cornflowerblue;
 }
-nav a:hover{
-    color: rgb(69, 230, 82);
-    font-weight: bold;
-    transform: rotate(6deg);
-}
-h2{
-    padding-top: 1.5rem;
-    padding-left: 2.25rem;
-    font-size: larger;
 a:active{
     
     text-decoration: line-through;
 
+}
+.line-through {
+    transform: rotate(6deg);
+}
+.line-through a{
+    text-decoration: line-through,black;
+}
+/*main*/
+h2{
+    padding-top: 1.5rem;
+    padding-left: 2.25rem;
+    font-size: larger;
 }
 .main-section  {
     min-width: 22.5rem;
