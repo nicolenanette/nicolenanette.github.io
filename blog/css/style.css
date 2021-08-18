@@ -175,12 +175,16 @@ h2{
     padding-left: 2.25rem;
     font-size: larger;
 }
-.main-section  {
-    min-width: 22.5rem;
-    float: left;
+section  {
     display: flex;
     margin-left: .75rem;
-
+    padding-left: 2rem;
+    padding-right: .25rem;
+}
+section p{
+    padding-right:1.75rem;
+    margin-top: 0;
+    line-height: 1;
 }
 figure img{
     width: 90%;
