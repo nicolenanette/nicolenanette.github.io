@@ -244,7 +244,7 @@ figure img{
     object-fit:cover ;
 }
 .sub-section figcaption{
-    background-color: oldlace;
+    background-color: rgb(228, 212, 181);
     padding: 0.125rem;
     width: 90%;
     
@@ -255,7 +255,7 @@ figure img{
     font-size: larger;
     text-align: center;
     background-color:navy;
-    color:oldlace;
+    color:rgb(228, 212, 181);
     border:none;
     padding:.67rem;
     border-radius: .5rem;
@@ -265,7 +265,7 @@ figure img{
 }
 .button a{
     text-decoration: none;
-    color:oldlace;
+    color:rgb(228, 212, 181);
 }
 .button a:hover{
     cursor: pointer;
