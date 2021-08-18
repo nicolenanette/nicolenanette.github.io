@@ -241,7 +241,7 @@ figure img{
     max-width: 305px;
     object-fit:cover ;
 }
-figcaption{
+.sub-section figcaption{
     background-color: tan;
     padding:.25rem;
     width: 90%;
